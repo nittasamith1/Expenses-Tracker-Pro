@@ -1,7 +1,6 @@
 """
 Advanced Expense Tracker - Production-Ready Application
 Built with OOP, SOLID Principles, Design Patterns, and Best Practices
-For: 1 Crore Placement in Software Development / AIML Engineering
 
 Features:
 - Object-Oriented Design with Class-Based Architecture
@@ -806,4 +805,5 @@ def main() -> None:
 
 
 if __name__ == '__main__':
+
     main()
