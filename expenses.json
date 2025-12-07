@@ -1,0 +1,16 @@
+[
+    {
+        "date": "10102025",
+        "category": "Food",
+        "description": "coffee",
+        "amount": 150.0,
+        "created_at": "2025-12-07T14:08:34.895346"
+    },
+    {
+        "date": "20112025",
+        "category": "Shopping",
+        "description": "Dress",
+        "amount": 5000.0,
+        "created_at": "2025-12-07T14:09:18.979507"
+    }
+]
